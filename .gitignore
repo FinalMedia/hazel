@@ -4,4 +4,8 @@ bin/
 bin-int/
 
 #files
+<<<<<<< HEAD
 .user
+=======
+.user
+>>>>>>> 5aa3a81181469f5a334a5076baaafbc5b50e6b57
